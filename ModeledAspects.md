@@ -6,8 +6,7 @@
 | UI components/ elements | 6 | 
 | workflows/ navigation/ transition | 6 | 
 | user groups, specifics, capabilities | 5 | 
-| input | 4 | 
-| output | 4 | 
+| input/ output | 4 | 
 | requirements | 4 | 
 | presentation | 3 | 
 | data structure | 3 | 
