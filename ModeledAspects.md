@@ -2,7 +2,7 @@
 |----------------------------|:--------:|:--------:|
 | UI general/ screen | 20 | S4, S7-S11, S14-S20, S24-S30 |
 | interaction/ action/ function/ service | 12 |  S4-S7, S11, S17-S19, S21, S24, S26, S29 |
-| appearance/ look and feel | 8 |  S28 |
+| appearance/ look and feel | 8 | S1-S3, S5, S17-S19,  S28 |
 | UI components/ elements | 8 | S1-S5, S13, S28, S29  |
 | workflows/ navigation/ transition | 7 |  S2, S6, S7, S12, S13, S24, S29 |
 | user groups, specifics, capabilities | 6 | S2, S13, S21, S24, S25, S30 |
