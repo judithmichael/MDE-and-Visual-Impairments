@@ -14,7 +14,7 @@
 | adaptation rules | 2 | S8, S30 |
 | information architecture (data, wiki content) | 1 |  S12 |
 
-Some examples:
+Some more details:
 -  S3 models UI concepts in detail, but a concrete connection to standards such as WCAG and concrete developer support is missing. They have highlighted a set of attributes  that are important for accessibility, such as a caption, in a table  but the paper lacks descriptions on how developers should handle this caption, e.g., what ranges should be provided for which user groups, and detailed models representing accessibility requirements are not provided.
 - S2 models context concepts in an ontology, e.g., a disability profile, device information, or about the user identity, and provides a UI meta-model and a meta-model for representing concepts relevant to low vision. The connection between low vision requirements and interfaces is not explicitly modeled but described in algorithms for mappings and the relationship from requirements to standards such as WCAG is missing.
 - S8 and S9 provide examples for modeling user tasks in a very abstract way but they lack explicit models providing accessibility information. 
