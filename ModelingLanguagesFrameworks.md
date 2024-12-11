@@ -9,7 +9,7 @@
 |4  | EGOKI  |  S12, S14, S19, S21 |
 |3  | Graphical Modelling Framework (GMF)   |  S13, S16, S19 |
 |2  | SPA4USXML   |  S14, S19 |
-|2  | MD<sup>2sup> and Xtext  |  S2, S3 |
+|2  | MD<sup>2<sup> and Xtext  |  S2, S3 |
 |1  | Xtend   |  S3 |
 |1  |  ISATINE Framework   |  S4 |
 |1   | WebML    |  S24 |
