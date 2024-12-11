@@ -19,11 +19,16 @@
 |4  | no details given   |  S6, S15, S25, S30 |
 
 Some more details:
-- S5 describe accessible UIs, the interaction platform, and the execution platforms in a metamodel using UML Class Diagrams and present the according models in the publication using UML Object Diagrams. 
-- S23 describe models as UML Class Diagrams  using the Eclipse Graphical Modeling Project. 
-- S11, S22 use UML Use Case and Activity Diagrams to describe the usage of and navigation in a system and UML state chart diagrams to describe UI behavior.
+
+UML
+- S5 describes accessible UIs, the interaction platform, and the execution platforms in a metamodel using UML Class Diagrams and presents the according models in the publication using UML Object Diagrams. 
+- S23 describes models as UML Class Diagrams  using the Eclipse Graphical Modeling Project. 
+- S11 and S22 use UML Use Case and Activity Diagrams to describe the usage of and navigation in a system and UML state chart diagrams to describe UI behavior.
+
+- S4 relies on the ISATINE Framework, a framework for user interface adaptation. It decomposes user interface adaptation into seven stages of adaptation.
+- S27 uses UseML, an XML-based markup language for useware engineering which includes hardware and software components for the use of technical systems. It allows for user task modeling.
 
 Developed DSLs
-- S7, S9, S10 rely on the same developed DSL which is based on XML and allows to define features, such as the screen, UI elements, and interaction, as well as workflows.
+- S7, S9 and S10 rely on the same developed DSL which is based on XML and allows to define features, such as the screen, UI elements, and interaction, as well as workflows.
 - S17 talks about an abstract user interface description language. They show a high-level graphical abstraction of one model but not any of the models explicitly.
 - S22 created a modeling approach fitting to the Cameleon Reference Framework, e.g., extending UML class descriptions with events. Again, concrete details and model examples are missing.
