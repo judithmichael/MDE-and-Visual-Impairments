@@ -35,3 +35,23 @@ Some details:
 | 17 |  visual impairments |  S1-S4, S6, S10, S11, S14, S16-S18, S20, S21, S23, S26, S27, S30 |
 | 9  |  people with disabilities | S0, S13, S12, S15, S19, S22, S24, S25, S28, S29 |
 | 3  |  developers | S5, S7, S8 |
+
+
+# Standards and Guidelines used
+
+| Number of Papers | Accessibility Guidelines | Paper Keys |
+|----------------------------|:--------:|:--------:|
+|20  | WCAG  |S2-S5, S7-S11, S13-S15, S18-S20, S21, S23-S25, S27, S28   |
+|6  |  WAI / WAI-ARIA | S6, S9, S13, S26, S27, S29 |
+|3  | ISO 9241-171  |S4, S15, S16 |
+|2  | Accessibility development documentation for Android and iOS  |S2, S9 |
+|1 |  ATAG |S23 |
+|1 |  BBC mobile accessibility guidelines |S2 |
+|1 |  IMS guidelines for developing accessible learning applications |S28 |
+|1 |  ISO/IEC 12207 |S8 |
+|1 |  Material Design guideline for accessibility |S7 |
+|1 |  SIDI guidelines for accessible mobile applications |S2 |
+|1 |  UAAG | S16 |
+|1 |  Universal design guidelines by U.S. General Services Administration (GSA) |S6 |
+|5 |  not specified |S1, S12, S17, S22, S30 |
+
