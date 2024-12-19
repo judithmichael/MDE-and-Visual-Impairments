@@ -22,8 +22,16 @@ Some details:
 
 # Target audience
 
-| Number of Papers | Target audience | Paper Keys |
+| Number of Papers | Target audience for development | Paper Keys |
 |----------------------------|:--------:|:--------:|
-|22  |  software engineers, developers |  S1-S5, S7-S11, S15-S18, S20, S22-S28 |
-| 4  |  designer, service deigner |S13, S14, S19, S21 |
-| 4  |  no target group mentioned |S6, S12, S29, S30 |
+| 22  |  software engineers, developers |  S1-S5, S7-S11, S15-S18, S20, S22-S28 |
+| 4  |  designer, service deigner | S13, S14, S19, S21 |
+| 4  |  no target group mentioned | S6, S12, S29, S30 |
+
+* The 22 papers also mention other functional roles such as (software) architect, analyst, modeler, designer,  service designer, and accessibility specialist.
+
+| Number of Papers | Target audience for evaluation | Paper Keys |
+|----------------------------|:--------:|:--------:|
+| 17 |  visual impairments |  S1-S4, S6, S10, S11, S14, S16-S18, S20, S21, S23, S26, S27, S30 |
+| 9  |  people with disabilities | S0, S13, S12, S15, S19, S22, S24, S25, S28, S29 |
+| 3  |  developers | S5, S7, S8 |
