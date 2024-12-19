@@ -41,7 +41,7 @@ Some details:
 
 | Number of Papers | Accessibility Guidelines | Paper Keys |
 |----------------------------|:--------:|:--------:|
-|20  | WCAG  |S2-S5, S7-S11, S13-S15, S18-S20, S21, S23-S25, S27, S28   |
+|21  | WCAG  |S2-S5, S7-S11, S13-S15, S18-S20, S21, S23-S25, S27, S28   |
 |6  |  WAI / WAI-ARIA | S6, S9, S13, S26, S27, S29 |
 |3  | ISO 9241-171  |S4, S15, S16 |
 |2  | Accessibility development documentation for Android and iOS  |S2, S9 |
