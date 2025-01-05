@@ -61,7 +61,7 @@ Platform-Independent Model (PIM) and Platform-Specific Model (PSM) approaches
 - S28 proposes a generic framework that describes all the issues involved in creating accessible e-learning content. It defines high-level requirements in a platform-independent model and instantiates it to respond to different accessibility objectives. 
 
 PIM approaches
-- S13 describes accessibility requirements related to a media player, use them to model and adapt abstract user interfaces, and configure User Interface with adaptation rules based on user group accessing media player. They use UsiXML and the Cameleon Reference Framework.
+- S13 describes accessibility requirements related to a media player, uses them to model and adapt abstract user interfaces, and configures UIs with adaptation rules based on the user group accessing the media player. They use UsiXML and the Cameleon Reference Framework.
 - S14 focuses on the inclusion of WCAG requirements in the MDE process to face accessibility concerns early on in the development process.
 - S15 defines a set of models (Accessibility Context Model, Ontology Model, Adaptation Rules, Interface Model, Interface Metamodel) to generate the adaptive target code.
 - S19 uses both general DSL and a PIM approach. They describe a model editor that helps the developer to configure UI models more rapidly within the context of accessibility requirements. SPA4USXML and Egoki are used in this paper.
