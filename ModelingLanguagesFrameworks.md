@@ -1,4 +1,4 @@
-# Modeling Languages Frameworks
+# Modeling Languages and Frameworks
 
 | Number of Papers | Modeling Languages and Frameworks | Paper Keys |
 |----------------------------|:--------:|:--------:|
