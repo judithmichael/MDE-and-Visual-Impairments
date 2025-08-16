@@ -1,4 +1,4 @@
-This is the complementary repository of our article. 
+This is the complementary repository of our article. You can find more information about:
 
 * [The selected studies](SelectedPrimaryStudies.md)
 * [What visual impairments were addressed](VisualImpairments.md)
