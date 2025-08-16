@@ -16,16 +16,14 @@
 | S14 | Miñón et al.   | An approach to the integration of accessibility requirements into a user interface development method  | 2014 |
 | S15 | Zouhaier et al.  | A MDA-based Approach for Enabling Accessibility Adaptation of User Interface for Disabled People  | 2014 |
 | S16 | González-García et al.  | A Model-Based Graphical Editor to Design Accessible Media Players  | 2013 |
-| S17 | van Hees and
-Engelen  | Equivalent representations of multimodal user interfaces: Runtime Reification of Abstract User Interface Descriptions  | 2013 |
+| S17 | van Hees and Engelen  | Equivalent representations of multimodal user interfaces: Runtime Reification of Abstract User Interface Descriptions  | 2013 |
 | S18 | Vieritz et al.   | Early accessibility evaluation in web application development  | 2013 |
 | S19 | Minon et al.  | A graphical tool to create user interface models for ubiquitous interaction satisfying accessibility requirements  | 2013 |
 | S20 | Vieritz et al.  | User-centered design of accessible web and automation systems  | 2011 |
 | S21 | Yazdi et al.  | A concept for user-centered development of accessible user interfaces for industrial automation systems and web applications  | 2011 |
 | S22 | Abascal et al.  | Automatically generating tailored accessible user interfaces for ubiquitous services  | 2011 |
 | S23 | Bittar et al. | Accessible Organizational Elements in Wikis with Model-Driven Development  | 2010 |
-| S24 | Watanabe et
-al.  | WCAG Conformance Approach Based on Model-Driven Development and WebML  | 2010 |
+| S24 | Watanabe et al.  | WCAG Conformance Approach Based on Model-Driven Development and WebML  | 2010 |
 | S25 | Martin et al.  | Engineering accessible Web applications. An aspect-oriented approach  | 2010 |
 | S26 | Göhner et al.  | Integrated accessibility models of user interfaces for IT and automation systems  | 2008 |
 | S27 | Jeschke et al.  | Developing Accessible Applications with User-Centered Architecture  | 2008 |
