@@ -6,7 +6,7 @@
 - S24 suggests model-to-model transformations from WebML models without accessibility requirements to other ones incorporating accessibility requirements such as for complex interface components. They suggest using platform-specific details described in the non-normative WCAG 2.0 document to derive transformation requirements and modeling requirements for the WebML process. These transformation requirements impact the code template mechanism, e.g., adding text alternatives to all non-text content. The approach provides some examples but lacks a concrete implementation.
 - S5 uses several model-to-model transformations: They transform an accessible UI model and an interaction platform model, e.g., for a smartphone or desktop application, to an accessible UI model adapted to a specific interaction platform. The latter is then transformed into a model for a specific execution platform. The authors describe an Accessible User Interface metamodel and an Interaction Platform metamodel together with natural language descriptions of the main transformations into Objective C and XHTML.
 
-The other four primary studies transform abstract UI models into PSMs. 
+The other five primary studies transform abstract UI models into PSMs. 
 - S13 transforms abstract UI models into concrete UI models without providing details. They rather focus on adaptation rules for the final UI.
 - S16 transforms task and domain models to abstract UI models and then to concrete UI models based on the Cameleon reference framework. The authors provide a list of media player accessibility requirements and their mapping to design primitives to be followed by modelers.
 - S17 transforms an abstract UI description to platform-specific UI models.
