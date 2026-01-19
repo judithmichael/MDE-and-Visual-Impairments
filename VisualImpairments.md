@@ -8,7 +8,7 @@
 
 Some details:
 * S3 explicitly integrates accessibility concerns into the model-driven process of accessible mobile apps and discusses issues that can be automatically handled in the transformations. 
-* S24 aims to improve the WebML modeling language to become capable of mapping \wcag guidelines to requirements and describes how \mde transformations are derived.
+* S24 aims to improve the WebML modeling language to become capable of mapping WCAG guidelines to requirements and describes how MDE transformations are derived.
 * S25 aims to develop modeling techniques for handling the non-functional, generic, and crosscutting characteristics of accessibility concerns.
 
 # Adressed Visual Impairments
